@@ -1,0 +1,21 @@
+streamlit==1.39.0
+supabase>=2.3.4
+python-dotenv==1.0.1
+pandas==2.2.0
+plotly==5.18.0
+Pillow==10.2.0
+pdfplumber==0.11.0
+PyPDF2==3.0.1
+openpyxl==3.1.2
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
+passlib[bcrypt]==1.7.4
+python-jose==3.3.0
+pytesseract==0.3.10
+pdf2image==1.17.0
+
+# Modelos de IA (instale o que for usar)
+google-generativeai>=0.5.0
+openai>=1.16.0
+anthropic>=0.18.1
+groq>=0.9.0
